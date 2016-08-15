@@ -1,0 +1,7 @@
+# crust
+
+A toy scheme interpreter written in Rust.
+
+# License
+
+GPLv3, see COPYING for details.
